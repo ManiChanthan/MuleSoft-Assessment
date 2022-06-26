@@ -1,6 +1,6 @@
 # MuleSoft-Assessment
 
-Question is : create a database, store your interesting movie names with the names of lead actor, actress, year of release and the director name. Once you have stored the details, then use any programming language of your choice to retrieve the details.
+Question : create a database, store your interesting movie names with the names of lead actor, actress, year of release and the director name. Once you have stored the details, then use any programming language of your choice to retrieve the details.
 
 Connect to the SQLite database (or any Database you know): Learn how to download SQLiteJDBC driver and connect to an existing SQLite database using JDBC.
 
@@ -20,4 +20,4 @@ Step 3 : Execute the file.
 
 Check the output image for reference.
 
-Note: To create a JDBC connection, we need to add external .jar file from "https://github.com/xerial/sqlite-jdbc/releases".
+Note: To create a JDBC connection, we need to add external ".jar" file from "https://github.com/xerial/sqlite-jdbc/releases".
